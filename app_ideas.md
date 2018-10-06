@@ -83,15 +83,18 @@ Favorite Apps:
      - **Mobile**: mobile is not essential but user can quickly enter a flight number at the open of the app.
      - **story**: 
      - **Market**:Daily travelors that take flights across the U.S. They could be directed to a specific airline to buy the ticket. The airlainer could a pay a commision for every ticket bought by our users.
-     - **Habit**:
+     - **Habit**: Travelers use this whenever they needed to buy plane tickets in order to get the lowest price or the best price.
      - **Scope**: 
 
 
 2. Group Maker/Friend finder. 
      - **Description**: A application/website that allows freshman going into a unviversity to reach out to each other for networking and help.
-     - 
-     - **Category:**   
-    - **Mobile**
+     - **Category:** Social Networking
+     - **Mobile:** Not essential, but it will be useful to have one. Users could immediately check messages, or events. 
+     - **Story:** 
+     - **Market:** Any college student can use this app.
+     - **Habit:** College students can use this apps to meet new friends, ask for help, or check out recents events other college students have planned.
+     - **Scope:**
 
 
 
@@ -101,6 +104,9 @@ Favorite Apps:
      - **Description** An Application that will alow an owner/care tacker of a pet to track the animal if it ever goes missing. 
      - **Category:**
      - **Mobile:** Mobile based only
-     - **
+     - **Story:** Helps the owners that have lost their pets to able to find them, instead of losing them, and the pets turn in to strays.
+     - **Market:** Pet owners that allow their pets to go outside by themselves, and other owners that walk their pets.
+     - **Habit:**
+     - **Scope:**
 
 
