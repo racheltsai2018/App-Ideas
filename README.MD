@@ -16,7 +16,6 @@
 ---
 
 
-# README Template
 
 ## 1. User Stories (Required and Optional)
 
