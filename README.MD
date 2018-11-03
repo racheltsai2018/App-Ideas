@@ -17,7 +17,7 @@
 
 
 
-## 1. User Stories (Required and Optional)
+### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
 
@@ -34,7 +34,7 @@
  * Good deals for plane tickets
  * Friends feed to share and chat about prices
 
-## 2. Screen Archetypes
+### 2. Screen Archetypes
 
  * Login screen
      * User can login
@@ -53,7 +53,7 @@
      * User can share prices and deals they found
      * User can share recent flights they are going to take or where they are going
 
-## 3. Navigation
+### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
