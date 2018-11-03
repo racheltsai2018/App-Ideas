@@ -15,10 +15,73 @@
 
 ---
 
-### User Stories
-// TODO: Enumerate User Stories
-1. User can...
 
+# README Template
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can login
+ * User can find plane ticket prices
+ * History of flights and flight searches
+ * Sharing flights and prices with others
+**Optional Nice-to-have Stories**
+
+ * Map of the flight
+ * Add payment option
+ * Purchasing tickets from the app
+ * Map for the routes users can take to get to the airport
+ * Good deals for plane tickets
+ * Friends feed to share and chat about prices
+
+## 2. Screen Archetypes
+
+ * Login screen
+     * User can login
+ * Registration screen
+     * First time users can register
+ * Search menu for flights
+     * User can search for a flight by destination or flight number
+
+ * Map
+     * User can look at the routes the can take to the airport
+     * User can look at the routes the plane takeser can look at the routes the plane takes
+
+ * Good deal
+     * shows good deals that different airline companies currently have
+ * Friend group
+     * User can share prices and deals they found
+     * User can share recent flights they are going to take or where they are going
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home - Search location
+ * Map 
+ * Trending locations
+ * Social
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen 
+   * Home
+   * Account creation
+ * Search Screen
+   * Home
+   * Price compare screen
+   * Featured flights
+   * settings
+ * Trending locations
+   * Home
+   * Featured flights
+   * search
+   * settings
+ * History
+   * Home
+   * settings
+  
 ---
 
 ### Wireframes
