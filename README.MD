@@ -84,7 +84,13 @@
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+Wireframe Image:
+
+![wireframe image](https://user-images.githubusercontent.com/42664413/48666769-e5613f00-ea7c-11e8-97df-411ac5246e1c.png)
+
+Interactive Prototype:
+
+<img src="http://recordit.co/jlC9vva9ZZ.gif" width=200><br>
 
 ---
 
